@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!# Hi there! 👋 I'm Piyush Mandhare
+<!# Hi there! 👋 I'm om shinde
 
 ### 🎓 Engineering Student | Aspiring Developer
 
